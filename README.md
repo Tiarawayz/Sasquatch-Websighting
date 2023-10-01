@@ -1,1 +1,1 @@
-# Sasquatch-Websighting
+# Sasquatch Websighting
